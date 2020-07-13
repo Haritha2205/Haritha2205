@@ -2,7 +2,7 @@
 
 I'm a CS Student.
 
-<img src="https://www.pngitem.com/pimgs/m/2-26692_cat-tom-and-jerry-hd-png-download.png" style="width:100px;height:100px;">
+<img src="https://www.pngitem.com/pimgs/m/2-26692_cat-tom-and-jerry-hd-png-download.png" alt="Haritha">
 
 <!--
 **Haritha2205/Haritha2205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
