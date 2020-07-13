@@ -2,7 +2,7 @@
 
 I'm a CS Student.
 
-<img src="https://mytoonzworld.files.wordpress.com/2012/08/tom-cartoon.jpg" alt="Haritha" >
+<img src="https://vignette.wikia.nocookie.net/xianb/images/8/85/Tom_Cat.png/revision/latest/scale-to-width-down/340?cb=20140915021536" alt="Haritha" >
 
 <!--
 **Haritha2205/Haritha2205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
