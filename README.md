@@ -1,6 +1,6 @@
 ### Hi I'm Haritha 👋
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngitem.com%2Fmiddle%2FhihmT_cat-tom-and-jerry-hd-png-download%2F&psig=AOvVaw3WR84_OOec7QghwrxGzZfs&ust=1594723744331000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDGqISHyuoCFQAAAAAdAAAAABAN">
+<img src="https://www.pngitem.com/pimgs/m/2-26692_cat-tom-and-jerry-hd-png-download.png">
 <!--
 **Haritha2205/Haritha2205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
