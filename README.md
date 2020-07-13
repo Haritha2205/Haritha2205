@@ -1,6 +1,6 @@
 ### Hi I'm Haritha 👋
 
-I'm a cs student and Ready to learn.
+I'm a CS Student.
 
 <img src="https://www.pngitem.com/pimgs/m/2-26692_cat-tom-and-jerry-hd-png-download.png" style="width:100px;height:100px;">
 
