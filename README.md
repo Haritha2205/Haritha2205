@@ -2,7 +2,7 @@
 
 I'm a CS Student.
 
-<img src="https://www.pngitem.com/pimgs/m/2-26692_cat-tom-and-jerry-hd-png-download.png" alt="Haritha">
+<img src="https://www.wallpapers13.com/wp-content/uploads/2016/11/Tom-and-Jerry-As-small-babies-Desktop-HD-Wallpaper-for-Mobile-phones-Tablet-and-PC-2560x1600-915x515.jpg" alt="Haritha" >
 
 <!--
 **Haritha2205/Haritha2205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
