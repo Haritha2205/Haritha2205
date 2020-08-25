@@ -1,4 +1,4 @@
-### Hi I'm Haritha :female-office-worker::skin-tone-2:
+### Hi I'm Haritha😄
 
 I'm a CS Student.
 
