@@ -2,7 +2,7 @@
 
 I'm a CS Student.
 
-<img src="https://images.hdqwalls.com/wallpapers/get-back-to-code-km.jpg" alt="Haritha" >
+<img src="https://media.tenor.com/images/a32b58becede99513935a4a5a7346168/tenor.gif" alt="Haritha" >
 
 <!--
 **Haritha2205/Haritha2205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
