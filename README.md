@@ -1,4 +1,4 @@
-### Hi I'm Haritha😄
+### Hi😄
 
 I'm a CS Student.
 
