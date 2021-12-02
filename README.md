@@ -1,6 +1,6 @@
 ### Hi there👋🏻
 
-I'm a CS Student.
+I'm a CS Oriented Girl.
 
 <img src="https://media.tenor.com/images/a32b58becede99513935a4a5a7346168/tenor.gif" alt="Haritha" >
 
